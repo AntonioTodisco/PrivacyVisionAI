@@ -1,2 +1,7 @@
 # PrivacyVisionAI
-PrivacyVisionAI è un'innovativa soluzione software dedicata a potenziare la privacy e la sicurezza all’interno delle immagini, attraverso l'uso dell'intelligenza artificiale.
+PrivacyVisionAI is an innovative software solution dedicated to enhancing privacy and security within images through the use of artificial intelligence.
+My personal thesis work concerns AI using the following technologies:
+- Ultralytics YOLOv8 
+- Roboflow API
+- OpenCV library for image processing
+- Gradio API for GUI development
