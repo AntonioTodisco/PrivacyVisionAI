@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"0, 1337, 1998, 2536",2.0,0.8785312175750732,Testo targa non disponibile,"1486, 2170, 1826, 2307",0.7085796594619751,output_immagini/image_censored/censored_IMG_0063.jpg

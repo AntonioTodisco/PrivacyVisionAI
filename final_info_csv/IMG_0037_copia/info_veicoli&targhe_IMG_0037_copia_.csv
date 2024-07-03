@@ -1,0 +1,3 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"273, 1354, 1887, 2350",2.0,0.9354445338249207,FR175AE,"406, 1995, 741, 2153",0.6840513944625854,output_immagini/image_censored/censored_IMG_0037_copia.jpeg
+2,"1669, 1335, 2958, 2458",2.0,0.925323486328125,FH9340S,"1976, 2062, 2378, 2203",0.6544387936592102,

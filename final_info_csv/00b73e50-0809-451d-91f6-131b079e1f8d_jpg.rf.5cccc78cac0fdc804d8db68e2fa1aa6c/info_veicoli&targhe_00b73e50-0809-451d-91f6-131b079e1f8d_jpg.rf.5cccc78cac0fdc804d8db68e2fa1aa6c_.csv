@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,PVI90,"0, 0, 158, 155",0.7981024980545044,output_immagini/image_censored/censored_00b73e50-0809-451d-91f6-131b079e1f8d_jpg.rf.5cccc78cac0fdc804d8db68e2fa1aa6c.jpg

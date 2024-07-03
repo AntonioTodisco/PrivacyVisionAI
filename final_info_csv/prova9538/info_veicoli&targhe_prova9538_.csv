@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"1129, 1700, 2813, 3101",2.0,0.8820018768310547,EBZ20BS5H,"1892, 2788, 2448, 3015",0.7869977355003357,output_immagini/censored_prova9538.jpg

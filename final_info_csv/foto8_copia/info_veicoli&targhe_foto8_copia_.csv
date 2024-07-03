@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+2,"80, 118, 891, 532",5.0,0.8200615644454956,MCLRNF1,"416, 221, 587, 311",0.7757232785224915,output_immagini/image_censored/censored_foto8_copia.png

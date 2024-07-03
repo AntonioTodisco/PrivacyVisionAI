@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+2,"2101, 1934, 3018, 2585",3.0,0.6678131222724915,Testo targa non disponibile,"2787, 2415, 2938, 2531",0.40907785296440125,output_immagini/image_censored/censored_IMG_0281.jpg

@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,GVG1D,"1, 1, 158, 158",0.7753736972808838,output_immagini/image_censored/censored_0a620cc2-c09d-46d1-94d6-4f6a15f0e157_jpg.rf.ca3675863936f2f835ae8685043dcb44.jpg

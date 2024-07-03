@@ -1,0 +1,3 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"1283, 1594, 2407, 2391",2.0,0.9329174160957336,648,"1918, 2090, 2180, 2208",0.6997705101966858,output_immagini/image_censored/censored_IMG_0274.jpg
+2,"329, 1654, 1194, 2386",2.0,0.9153420925140381,DK157S7,"616, 2164, 803, 2266",0.6501409411430359,

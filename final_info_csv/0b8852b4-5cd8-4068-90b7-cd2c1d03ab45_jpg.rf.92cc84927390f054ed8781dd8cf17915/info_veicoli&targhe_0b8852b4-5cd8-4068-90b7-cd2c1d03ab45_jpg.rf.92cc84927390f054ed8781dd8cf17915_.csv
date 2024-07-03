@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,KQVY6E81,"4, 3, 159, 160",0.6716877818107605,output_immagini/image_censored/censored_0b8852b4-5cd8-4068-90b7-cd2c1d03ab45_jpg.rf.92cc84927390f054ed8781dd8cf17915.jpg

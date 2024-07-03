@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,NPB6359,"5, 2, 157, 146",0.9125310778617859,output_immagini/image_censored/censored_0b30dd87-ae3e-4347-906b-814fc8d8e636_jpg.rf.a069dd6e0f212ae174f8eada467835ac.jpg

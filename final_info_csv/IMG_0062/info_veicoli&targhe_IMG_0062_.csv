@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+4,"330, 1057, 2922, 3353",2.0,0.43401721119880676,FT557FR,"1669, 2663, 2551, 3166",0.6483962535858154,output_immagini/image_censored/censored_IMG_0062.jpg

@@ -1,0 +1,4 @@
+face_id,left,top,right,bottom,score_face,percorso_immagine_censurata
+1,195,37,270,157,0.9042384028434753,output_immagini/image_censored/censored_img719_jpg.rf.1f3e479cca408425912ee120aa1778a3.jpg
+2,313,109,366,176,0.7899527549743652,
+3,380,100,416,177,0.6881164312362671,

@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+2,"408, 2072, 1001, 2794",3.0,0.7032159566879272,Testo targa non disponibile,"638, 2466, 732, 2563",0.307300329208374,output_immagini/image_censored/censored_IMG_0225.jpg

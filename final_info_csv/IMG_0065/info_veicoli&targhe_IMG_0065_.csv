@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"0, 709, 434, 1585",2.0,0.8965959548950195,EZ057TK,"147, 1244, 382, 1516",0.4404073655605316,output_immagini/image_censored/censored_IMG_0065.jpg

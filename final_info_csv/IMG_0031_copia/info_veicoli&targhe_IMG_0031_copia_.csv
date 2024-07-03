@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"87, 1888, 1920, 2983",2.0,0.9135345816612244,DM070VZ,"296, 2634, 705, 2827",0.6682308316230774,output_immagini/image_censored/censored_IMG_0031_copia.jpeg

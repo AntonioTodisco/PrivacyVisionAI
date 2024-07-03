@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,FAB0LUS,"34, 24, 406, 334",0.9177336692810059,output_immagini/image_censored/censored_02fee967ac39acf0_jpg.rf.24d10b7b2f428f89b79f42662025bdaa.jpg

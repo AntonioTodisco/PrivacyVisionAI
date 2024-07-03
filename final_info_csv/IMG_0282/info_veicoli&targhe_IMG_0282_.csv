@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"622, 0, 2467, 2200",5.0,0.8803635835647583,CGH55CR,"1253, 1734, 1646, 1904",0.6222252249717712,output_immagini/image_censored/censored_IMG_0282.jpg

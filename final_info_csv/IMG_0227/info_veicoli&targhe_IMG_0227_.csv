@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"353, 1755, 2715, 3382",2.0,0.9277768731117249,EZ875PS,"499, 2404, 1035, 2697",0.7314513921737671,output_immagini/image_censored/censored_IMG_0227.jpg

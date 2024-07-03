@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"883, 973, 2295, 1947",2.0,0.9386377334594727,BJ945GCJ,"1826, 1741, 2029, 1865",0.6789007782936096,output_immagini/image_censored/censored_IMG_0269.jpg

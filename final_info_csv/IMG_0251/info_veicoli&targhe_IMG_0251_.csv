@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"312, 1588, 1153, 2098",2.0,0.8904927968978882,CH8EK,"445, 1941, 573, 2008",0.4901733994483948,output_immagini/image_censored/censored_IMG_0251.jpg

@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+-1,"-1, -1, -1, -1",-1,-1,Testo targa non disponibile,"0, 0, 215, 298",0.4740419387817383,output_immagini/image_censored/censored_img578_jpg.rf.9b10c2563bd5e7d7a65f8a41386f27b7.jpg

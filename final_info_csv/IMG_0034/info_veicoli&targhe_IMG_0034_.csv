@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"461, 744, 3016, 3155",7.0,0.9306578040122986,41,"678, 2796, 1013, 2947",0.7219147086143494,output_immagini/image_censored/censored_IMG_0034.jpg

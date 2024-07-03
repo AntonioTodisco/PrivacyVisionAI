@@ -1,0 +1,2 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+1,"1514, 517, 3021, 2100",2.0,0.9373775124549866,EP89VL,"1704, 1569, 2020, 1818",0.7131487727165222,output_immagini/image_censored/censored_IMG_0273.jpg

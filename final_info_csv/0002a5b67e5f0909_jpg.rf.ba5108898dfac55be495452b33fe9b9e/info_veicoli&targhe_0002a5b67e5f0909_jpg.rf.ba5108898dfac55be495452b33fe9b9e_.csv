@@ -1,0 +1,3 @@
+id_veicolo,bounding-box_veicolo,class_id_veicolo,score_veicolo,license_plate_text,bounding-box_license-plate,score_license_plate,percorso_immagine_censurata
+2,"99, 164, 290, 324",2.0,0.8757278919219971,0P,"127, 266, 169, 288",0.7353847026824951,output_immagini/image_censored/censored_0002a5b67e5f0909_jpg.rf.ba5108898dfac55be495452b33fe9b9e.jpg
+1,"340, 152, 415, 227",2.0,0.9169604182243347,Testo targa non disponibile,"353, 206, 375, 218",0.3931658864021301,
