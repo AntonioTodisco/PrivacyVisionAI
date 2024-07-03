@@ -6,4 +6,9 @@ My personal thesis work concerns AI using the following technologies:
 - OpenCV library for image processing
 - Gradio API for GUI development
 
-## Instructions for using the software
+## Instructions for using the software:
+- Give permissions to run the start scrpit. Open the terminal in the project folder and run the following command:
+  chmod +x start.sh
+- Run the start script:
+  ./start.sh
+  
