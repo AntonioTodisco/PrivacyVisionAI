@@ -15,3 +15,4 @@ My personal thesis work concerns AI using the following technologies:
   ./start.sh
   
 ## Example of use
+![Alt text](GUI)
