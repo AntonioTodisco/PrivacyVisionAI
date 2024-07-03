@@ -15,4 +15,9 @@ My personal thesis work concerns AI using the following technologies:
   ./start.sh
   
 ## Example of use
+- GUI
 ![Alt text](GUI.png)
+- Input GUI
+![Alt text](inputGUI.png)
+- Output GUI
+![Alt text](outputGUI.png)
