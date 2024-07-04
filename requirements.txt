@@ -1,0 +1,7 @@
+gradio==4.37.2
+opencv-python==4.10.0.84
+numpy==1.26.4
+ultralytics==8.2.42
+easyocr==1.7.1
+inference-sdk==0.12.1
+scipy==1.14.0
