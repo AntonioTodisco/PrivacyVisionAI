@@ -13,7 +13,7 @@ My personal thesis work concerns AI using the following technologies:
   python -m venv env
 - Activates the environment:
 
-  source venv/bin/activate
+  source env/bin/activate
 
 - Install dependencies:
 
