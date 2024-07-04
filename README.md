@@ -19,7 +19,7 @@ My personal thesis work concerns AI using the following technologies:
 
   pip install -r requirements.txt
   
-- Give permissions to run the start scrpit. Open the terminal in the project folder and run the following command:
+- Give permissions to run the start script. Open the terminal in the project folder and run the following command:
 
   chmod +x start.sh
 - Run the start script:
